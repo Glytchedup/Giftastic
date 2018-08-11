@@ -1,0 +1,39 @@
+body {
+	background-image: url("../images/FUTURAMA-BACKGROUND-small.jpg");
+}
+.btn {
+	margin-right: 10px;
+}
+
+form, input {
+	margin-right: 10px;
+}
+
+#gif-input {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+img {
+	margin: 10px;
+
+}
+#gifPanel {
+	border: solid white 2px;
+}
+#jumbo {
+	background-color: blue;
+	border:solid white 2px;
+}
+#text {
+	color: white;
+}
+#panelBody {
+	background-color: gray;
+	border: 0;
+	box-shadow: none;
+	border-bottom: solid white 5px;
+}
+#rating {
+	margin: 10px;
+	color: white;
+}
